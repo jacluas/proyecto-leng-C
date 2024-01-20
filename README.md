@@ -1,5 +1,5 @@
 # Mexico 120 Flower Model
-### Pre-trained 512-VGG model (from Mexico 120 Flower dataset)
+### Pre-trained 512-VGG model (from Mexico 120 Flower dataset) Modified
 
 We share the pre-trained 512-VGG CNN model as research support in Mexico native flora identification. We believe that this pre-trained model may be a good starting point for future research in flower identification. Transfer learning from pre-trained models on ImageNet 2012 dataset was used.
 
